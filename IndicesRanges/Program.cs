@@ -7,7 +7,6 @@ namespace IndicesRanges
         static void Main(string[] args)
         {
             IndicesAndRanges();
-
         }
         public static void IndicesAndRanges()
         {
