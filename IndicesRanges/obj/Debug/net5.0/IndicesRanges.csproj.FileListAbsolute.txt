@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\bin\Debug\net5.0\IndicesRanges.exe
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\bin\Debug\net5.0\IndicesRanges.deps.json
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\bin\Debug\net5.0\IndicesRanges.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\bin\Debug\net5.0\IndicesRanges.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\bin\Debug\net5.0\IndicesRanges.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\bin\Debug\net5.0\ref\IndicesRanges.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\bin\Debug\net5.0\IndicesRanges.pdb
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\ref\IndicesRanges.dll
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.pdb
+C:\Users\User-Ryzen\Desktop\C#Nutshell\Intro\IndicesRanges\IndicesRanges\obj\Debug\net5.0\IndicesRanges.genruntimeconfig.cache
